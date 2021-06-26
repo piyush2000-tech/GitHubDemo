@@ -20,3 +20,5 @@ nfdbmgndb
 * better 
 * good programmer
 
+python
+
